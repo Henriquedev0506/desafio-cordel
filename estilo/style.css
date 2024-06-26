@@ -13,6 +13,7 @@ min-height: 100%;
 
 
 }
+
 header{
 background-color: black;
 color: white;
@@ -21,6 +22,7 @@ text-align: center;
 
 
 }
+
 header > h1{
 padding-top: 50px;
 font-variant: small-caps;
@@ -29,6 +31,7 @@ font-variant: small-caps;
 
 
 }
+
 header > p{
 padding-bottom: 50px;
 
@@ -44,11 +47,13 @@ font-weight: bolder;
 
 
 }
+
 a:hover {
 text-decoration: underline;
 
 
 }
+
 section{
 padding-top: 10vh;
 padding-bottom: 10vh;
@@ -73,6 +78,7 @@ color: white;
 
 
 }
+
 section.imagem > p{
 
 background-color: rgba(0, 0, 0, 0.274);
@@ -81,6 +87,7 @@ width: 400px;
 
 
 }
+
 footer{
 color: white;
 padding: 10px;
